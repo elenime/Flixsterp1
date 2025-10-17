@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Connectivity with the API and making sure the internet was working. 
+Getting the api to actually show and linking movie reference
 
 ## License
 
